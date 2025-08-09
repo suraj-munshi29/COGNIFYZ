@@ -16,5 +16,5 @@ while True:
         print("You guess too high . Please try again. ")
     else:
         print(f"HURRAY ! CONGRATULATIONS ! You guessed it in {attempts} attempts . ")
-        
+        break
          
